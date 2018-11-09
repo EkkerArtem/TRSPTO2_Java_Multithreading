@@ -3,7 +3,7 @@ import bearandbees.Bee;
 import bearandbees.HoneyPot;
 import org.junit.Test;
 
-public class MotherChickenAndBeesTest {
+public class BearAndBeesTest {
     static int portionSize = 20;
     static int numberOfThreads = 3;
 
